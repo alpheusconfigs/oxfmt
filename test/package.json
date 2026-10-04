@@ -1,12 +1,12 @@
 {
     "private": true,
+    "type": "module",
     "dependencies": {
         "@apst/oxfmt": "workspace:*",
         "oxfmt": "catalog:dev",
-        "vitest": "^4.1.11"
+        "vitest": "^5.0.3"
     },
     "devDependencies": {
-        "svelte": "5.57.1",
-        "vite-tsconfig-paths": "^6.1.1"
+        "svelte": "5.57.1"
     }
 }
