@@ -12,11 +12,11 @@
         "js",
         "javascript"
     ],
-    "homepage": "https://github.com/alpheuscfg/oxfmt",
-    "bugs": "https://github.com/alpheuscfg/oxfmt/issues",
+    "homepage": "https://github.com/alpheusconfigs/oxfmt",
+    "bugs": "https://github.com/alpheusconfigs/oxfmt/issues",
     "repository": {
         "type": "git",
-        "url": "https://github.com/alpheuscfg/oxfmt.git",
+        "url": "https://github.com/alpheusconfigs/oxfmt.git",
         "directory": "package"
     },
     "license": "MIT",
