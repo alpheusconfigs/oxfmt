@@ -44,7 +44,7 @@ importers:
     devDependencies:
       oxfmt:
         specifier: catalog:dev
-        version: 0.50.0(svelte@5.57.2)
+        version: 0.50.0(svelte@5.57.3)
 
   test:
     dependencies:
@@ -53,14 +53,14 @@ importers:
         version: link:../package
       oxfmt:
         specifier: catalog:dev
-        version: 0.50.0(svelte@5.57.2)
+        version: 0.50.0(svelte@5.57.3)
       vitest:
         specifier: ^5.0.5
         version: 5.0.5(@types/node@26.6.5)(vite@8.3.5(@types/node@26.6.5))
     devDependencies:
       svelte:
-        specifier: ^5.57.2
-        version: 5.57.2
+        specifier: ^5.57.3
+        version: 5.57.3
       vite:
         specifier: ^8.3.5
         version: 8.3.5(@types/node@26.6.5)
@@ -984,8 +984,8 @@ packages:
   std-env@4.3.0:
     resolution: {integrity: sha512-OtU/EgQ1kIm5KwqQpBC6ZEMXrZRui11w8zgfTWp8cdO9B8OaPsbA8bTHO2P+HNo1VlUTGMVBwPhydu6poeXiag==}
 
-  svelte@5.57.2:
-    resolution: {integrity: sha512-1YiPCAXT0Ct6g1vOMmSLa0Nsc3QRMvtDF32ihgglGVrugIuIK38RyDiFNXVDhtQ81TJjSO57NdMw6DyYLqSGDQ==}
+  svelte@5.57.3:
+    resolution: {integrity: sha512-5mAftM3SoDV9X0zdF386F9p2pv8iKOwi/KfBS1XnBAkVCKFzVOLHUoa8iGWAt4buoicLmyWVRpuuD5wplXOQsg==}
     engines: {node: '>=18'}
 
   tinybench@6.2.2:
@@ -1648,7 +1648,7 @@ snapshots:
 
   obug@3.0.0: {}
 
-  oxfmt@0.50.0(svelte@5.57.2):
+  oxfmt@0.50.0(svelte@5.57.3):
     dependencies:
       tinypool: 2.1.0
     optionalDependencies:
@@ -1671,7 +1671,7 @@ snapshots:
       '@oxfmt/binding-win32-arm64-msvc': 0.50.0
       '@oxfmt/binding-win32-ia32-msvc': 0.50.0
       '@oxfmt/binding-win32-x64-msvc': 0.50.0
-      svelte: 5.57.2
+      svelte: 5.57.3
 
   picocolors@1.1.1: {}
 
@@ -1747,7 +1747,7 @@ snapshots:
 
   std-env@4.3.0: {}
 
-  svelte@5.57.2:
+  svelte@5.57.3:
     dependencies:
       '@jridgewell/remapping': 2.3.5
       '@jridgewell/sourcemap-codec': 1.6.0
